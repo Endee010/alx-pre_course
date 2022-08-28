@@ -1,1 +1,3 @@
-echo 'something' > filename
+git add .
+git commit
+git push
